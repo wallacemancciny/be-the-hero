@@ -34,7 +34,7 @@ Be The Hero é uma aplicação que proporciona um ambiente simples para ONGs cad
     Be The Hero is a project to assist NGOs in the treatment of incidents that occur. NGOs can register their incidents on the web application and people can offer to help with the mobile application.
   </p>
 
-  <img alt="Be The Hero" width="400" src="https://res.cloudinary.com/zagatti/image/upload/v1585365232/readme/heroes_gwhjvc.png" />
+  <img alt="Be The Hero" width="400" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/heroes.png" />
 </div>
 
 ## 🖥 Technologies
@@ -69,7 +69,6 @@ The project was developed with the following technologies:
 - [React-DOM](https://pt-br.reactjs.org/docs/react-dom.html)
 - [React Icons](https://react-icons.netlify.com/#/)
 - [React Router Dom](https://reacttraining.com/react-router/web/)
-- [Typescript](https://www.typescriptlang.org/)
 
 </details>
 
@@ -84,7 +83,6 @@ The project was developed with the following technologies:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
-- [Typescript](https://www.typescriptlang.org/)
 
 </details>
 
