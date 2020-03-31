@@ -10,23 +10,7 @@ Be The Hero é uma aplicação que proporciona um ambiente simples para ONGs cad
 <h3 align="center">
   Be the hero of an NGO and help with a incident.
 </h3>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/azagatti/be-the-hero?style=plastic">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/azagatti/be-the-hero?style=plastic">
-
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/azagatti/be-the-hero?style=plastic">
-
-  <a href="https://github.com/AZagatti/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/azagatti/be-the-hero?style=plastic">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/github/license/azagatti/be-the-hero?style=plastic">
-
-  <a href="https://app.codacy.com/manual/AZagatti/be-the-hero/dashboard">
-    <img alt="Code Quality" src="https://img.shields.io/codacy/grade/28c8afee9396433c8dac759e9bd0bcd1?style=plastic">
-  </a>
-</p>
 
 <div align="center">
 
