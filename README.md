@@ -98,7 +98,6 @@ The web application is responsible for the registration of the NGO and the regis
 
 The mobile app is where the <b>hero</b> selects the incident he wants to help. Available for Android and iOS.
 
-  <img width="250" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/listando-incidentes-no-app.gif" />
   <img width="254" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/listando-incidentes-no-iphone.gif" />
 </div>
 
