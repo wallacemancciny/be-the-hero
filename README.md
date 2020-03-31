@@ -92,15 +92,15 @@ The project was developed with the following technologies:
 
 The web application is responsible for the registration of the NGO and the registration of incidents.
 
-  <img src="https://res.cloudinary.com/zagatti/image/upload/v1585412586/readme/web_wtvz6t.gif" />
+  <img src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/animacao-criando-incident.gif" />
 </div>
 
 <div align="center">
 
 The mobile app is where the <b>hero</b> selects the incident he wants to help. Available for Android and iOS.
 
-  <img width="250" src="https://res.cloudinary.com/zagatti/image/upload/v1585414806/readme/be-the-hero-android_q6rdui.gif" />
-  <img width="254" src="https://res.cloudinary.com/zagatti/image/upload/v1585412181/readme/be-the-hero-iphone_pm2afc.gif" />
+  <img width="250" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/listando-incidentes-no-app.gif" />
+  <img width="254" src="https://github.com/wallacemancciny/be-the-hero/blob/master/Prints%20projeto%20pronto/listando-incidentes-no-iphone.gif" />
 </div>
 
 ## 🚀 Getting started
@@ -111,7 +111,7 @@ _If you decide to use npm don't forget to delete yarn.lock in folders_
 
 Then you can clone the repository.
 
-`git clone https://github.com/azagatti/be-the-hero`
+`git clone https://github.com/wallacemancciny/be-the-hero.git`
 
 First start the application backend.
 
